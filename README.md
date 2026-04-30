@@ -1,17 +1,18 @@
- 🚀 CareerAI Pro: Enterprise AI Career Advisor
+ _🚀 CareerAI Pro: Enterprise AI Career Advisor
 
 **CareerAI Pro** is a high-performance, modular AI platform designed to transform raw resumes into actionable career insights. Built with **LangChain**, **Flask**, and **Data Science** libraries, it features a multi-LLM engine (OpenAI, Gemini, NVIDIA NIM, OpenRouter) and an automated **ATS Scoring** system with visual radar analytics.
 
 ---
 
-## 📸 Screenshot
 
-![App Screenshot](screenshots/Screenshot 1.png)
+## 🚀 Features Preview
+
+| Home Page                        | Chat UI                          |
+|----------------------------------|----------------------------------|
+| ![](screenshots/Screenshot1.png) | ![](screenshots/Screenshot2.png) |
 
 
-![App Screenshot](screenshots/Screenshot 2.png)
-
-## 🛠️ Key Features
+##_ 🛠️ Key Features
 
 *   **Multi-Model Intelligence:** Switch between OpenAI, Google Gemini 2.0, NVIDIA NIM, and OpenRouter (Llama 3.3) on the fly.
 *   **ATS Compatibility Scoring:** Uses **Scikit-Learn** and **TF-IDF** algorithms to calculate how well your resume matches enterprise software roles.
