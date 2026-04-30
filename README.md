@@ -4,6 +4,13 @@
 
 ---
 
+## 📸 Screenshot
+
+![App Screenshot](screenshots/Screenshot 1.png)
+
+
+![App Screenshot](screenshots/Screenshot 2.png)
+
 ## 🛠️ Key Features
 
 *   **Multi-Model Intelligence:** Switch between OpenAI, Google Gemini 2.0, NVIDIA NIM, and OpenRouter (Llama 3.3) on the fly.
