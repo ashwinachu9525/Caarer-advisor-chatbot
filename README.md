@@ -7,10 +7,9 @@
 
 ## 🚀 Features Preview
 
-| Home Page                        | Chat UI                          |
-|----------------------------------|----------------------------------|
-| ![](screenshots/Screenshot1.png) | ![](screenshots/Screenshot2.png) |
-
+|                      Home Page                       | Chat & Analytics UI |
+|:----------------------------------------------------:| :---: |
+| <img src="screenshots/Screenshot1.png" width="1280"> | <img src="screenshots/Screenshot2.png" width="1280"> |
 
 ##_ 🛠️ Key Features
 
